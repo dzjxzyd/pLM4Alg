@@ -25,6 +25,6 @@ More detailed python libraries used in this project are referred to requirements
 
 ## Further model tuning and modifications
 
-In our experiments, we follow our previous architecture design [UniDL4BioPep](https://github.com/dzjxzyd/UniDL4BioPep/tree/main), and conduct a series paramaters tuning based on experiences, mainly focus on filter size selected from [16,32,64,128,256], kernel size selected from [32,64,128,256], and units selected from [3,6,9,12].
+In our experiments, we follow our previous architecture design [UniDL4BioPep](https://github.com/dzjxzyd/UniDL4BioPep/tree/main), and conduct a series paramaters tuning based on experiences, mainly focus on filter size selected from [16,32,64,128,256], kernel size selected from [3,6,9,12], stride selected from [1,2,4,8] and units selected from [32,64,128,256,512,1024,2048,4096,8192].
 
 Feel free to make your personalized modifications. Just scroll down to the model architecture sections and make revisions to fit your expectation. Based on our experience in esm protein language models, our model architecture is quite reliable as your initial attempts on your own datasets. But, any attempts in new architecture design are highly encouraged. 
