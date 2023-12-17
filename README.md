@@ -1,5 +1,6 @@
 # pLM4Alg
-Allergenic protein/peptide prediction based on protein language model (ESM-2)
+pLM4Alg: Protein Language Model-Based Predictors for Allergenic Proteins and Peptides
+doi.org/10.1021/acs.jafc.3c07143
 
 **Notice: pLM4Allergen is ONLY freely available for academic research; for commercial usage, please contact us**, zhenjiao@ksu.edu; yonghui@ksu.edu;
 
