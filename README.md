@@ -6,7 +6,7 @@
 
 
 ## Explaination of the datast
-Allergenic sequences were labeled as 0 (positive) and non-allergenic sequence were labeled as 1 (negative). The dataset used in this study was compiled from four known public databases: CAMPARE, AllergenOnline, IUIS, and Uniprot. Datamining was used for AllergenOnline and IUIS (you can use our code for your latest dataset retrival). [See the data mining code.](https://github.com/dzjxzyd/pLM4Allergen/tree/main/Data%20mining%20from%20database)
+The dataset used in this study was compiled from four known public databases: CAMPARE, AllergenOnline, IUIS, and Uniprot. Datamining was used for AllergenOnline and IUIS (you can use our code for your latest dataset retrival). [See the data mining code.](https://github.com/dzjxzyd/pLM4Allergen/tree/main/Data%20mining%20from%20database)
 
 The dataset can be downloaded at [publisher website](https://pubs-acs-org.er.lib.k-state.edu/doi/suppl/10.1021/acs.jafc.3c07143/suppl_file/jf3c07143_si_001.xlsx)
 
