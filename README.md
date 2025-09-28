@@ -11,8 +11,7 @@ The dataset used in this study was compiled from four known public databases: CA
 The dataset can be downloaded at [publisher website](https://pubs-acs-org.er.lib.k-state.edu/doi/suppl/10.1021/acs.jafc.3c07143/suppl_file/jf3c07143_si_001.xlsx)
 
 ## web server codes and correspinding models deployed at server
-The original codes can be downloaded at [Google Drive](https://drive.google.com/drive/folders/1veD40uj8R7gpIo8y1niXtoKij_vZ3eiD?usp=sharing.)
- [OneDrive](https://ksuemailprod-my.sharepoint.com/:f:/g/personal/yonghui_ksu_edu/Eu1a_qexJsNNvjkHpyojUKMBMN-4K0FVOedSKZefEAn9bQ?e=pRHa0h)
+The original codes can be downloaded at [OneDrive](https://ksuemailprod-my.sharepoint.com/:f:/g/personal/yonghui_ksu_edu/Eu1a_qexJsNNvjkHpyojUKMBMN-4K0FVOedSKZefEAn9bQ?e=pRHa0h)
 
 
 ## Requirements
